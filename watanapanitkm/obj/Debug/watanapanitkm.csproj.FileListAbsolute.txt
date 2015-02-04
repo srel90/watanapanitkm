@@ -1,0 +1,7 @@
+D:\Visual Studio 2012\Projects\watanapanitkm\watanapanitkm\bin\watanapanitkm.dll
+D:\Visual Studio 2012\Projects\watanapanitkm\watanapanitkm\bin\watanapanitkm.pdb
+D:\Visual Studio 2012\Projects\watanapanitkm\watanapanitkm\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Visual Studio 2012\Projects\watanapanitkm\watanapanitkm\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Visual Studio 2012\Projects\watanapanitkm\watanapanitkm\obj\Debug\watanapanitkm.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2012\Projects\watanapanitkm\watanapanitkm\obj\Debug\watanapanitkm.dll
+D:\Visual Studio 2012\Projects\watanapanitkm\watanapanitkm\obj\Debug\watanapanitkm.pdb

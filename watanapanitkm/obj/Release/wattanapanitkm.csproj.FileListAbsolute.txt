@@ -1,0 +1,10 @@
+D:\Visual Studio 2012\Projects\watanapanitkm\watanapanitkm\bin\wattanapanitkm.dll
+D:\Visual Studio 2012\Projects\watanapanitkm\watanapanitkm\bin\wattanapanitkm.pdb
+D:\Visual Studio 2012\Projects\watanapanitkm\watanapanitkm\bin\Excel.dll
+D:\Visual Studio 2012\Projects\watanapanitkm\watanapanitkm\bin\ICU4NET.dll
+D:\Visual Studio 2012\Projects\watanapanitkm\watanapanitkm\bin\ICU4NETExtension.dll
+D:\Visual Studio 2012\Projects\watanapanitkm\watanapanitkm\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Visual Studio 2012\Projects\watanapanitkm\watanapanitkm\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Visual Studio 2012\Projects\watanapanitkm\watanapanitkm\obj\Release\wattanapanitkm.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2012\Projects\watanapanitkm\watanapanitkm\obj\Release\wattanapanitkm.dll
+D:\Visual Studio 2012\Projects\watanapanitkm\watanapanitkm\obj\Release\wattanapanitkm.pdb
